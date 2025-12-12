@@ -11,7 +11,7 @@ public class MainSistema {
         if (rol != null) {
             SistemaFlujo.iniciarFlujo(rol);
         } else {
-            System.out.println("aaaaaaaaaaaaaa");
+            System.out.println("bbbbbbbbbbbbb");
         }
     }
 }
